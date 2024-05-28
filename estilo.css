@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+
+.facebook, .instagram, .twitter{
+    width: 50px;
+}
+.logo{
+    width: 200px;
+}
+
+.tatuagens{
+    width: 700px;
+}
+h1, h2, p{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: large;
+}
+h1{
+    font-size: larger;
+}
+p, h2{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.criar{
+    color: gray;
+}
+.prioridade{
+  color: coral;
+}
